@@ -173,5 +173,4 @@ Projet de Deep Learning / Computer Vision réalisé avec Python, TensorFlow et K
 out = Path("/mnt/data/README.md")
 out.write_text(content, encoding="utf-8")
 print(f"README créé : {out} ({out.stat().st_size} octets)")
-#   c l a s s i f i c a t i o n - i m a g e s - a l i m e n t a i r e s  
- 
+git add .
